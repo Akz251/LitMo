@@ -1,0 +1,4 @@
+## Custome gitignore for lit motion
+# ignore old index.html files
+/index2.html
+/index3GoodSwipesandCircles.html
